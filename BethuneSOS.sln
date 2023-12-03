@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleAPI", "ScheduleAPI\ScheduleAPI.csproj", "{35EEB7B9-D2E9-4CED-B6AB-C62121FBD5DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35EEB7B9-D2E9-4CED-B6AB-C62121FBD5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EEB7B9-D2E9-4CED-B6AB-C62121FBD5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EEB7B9-D2E9-4CED-B6AB-C62121FBD5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EEB7B9-D2E9-4CED-B6AB-C62121FBD5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
